@@ -1,30 +1,17 @@
-### Hi there 👋, I'm Mari Ferraresi !
+# 💫 About Me:
+### Hi there 👋, I'm Mari Ferraresi !<br><br>- 🔭 I’m currently working on Hospital Pharmacy Management<br>- 🌱 I’m currently learning Programming logic and Analysis and development of systems at Impacta Technology<br>- 👯 I’m looking to collaborate on projetcts in the health area that use Python as the main language<br>- 💬 Ask me about career transition<br>- 📫 How to reach me:<a href="https://www.linkedin.com/in/mariane-pintucci-89739747"> Linkedin Mari Ferraresi </a><br>- ⚡ Fun fact: I started programming very young learning the old HTML version bymyself, but as a rebellious teenager I didn't follow in the area suggested by my father.Currently, I rediscovered myself by attendind a Java class with <a href="https://github.com/gustavoguanabara"> Professor Gustavo Guanabara</a> with my boyfriend, and understanding the class, which awakened my interest in the area again.<br><br>##
 
-- 🔭 I’m currently working on Hospital Pharmacy
-- 🌱 I’m currently learning Programming logic and Analysis and development of systems at Impacta Technology
-- 👯 I’m looking to collaborate on projetcts that use Python as the main language
-- 💬 Ask me about career transition
-- 📫 How to reach me:<a href="https://www.linkedin.com/in/mariane-pintucci-89739747"> Linkedin Mari Ferraresi </a>
-- ⚡ Fun fact: I started programming very young learning the old HTML version bymyself, but as a rebellious teenager I didn't follow in the area suggested by my father.Currently, I rediscovered myself by attendind a Java class with <a href="https://github.com/gustavoguanabara"> Professor Gustavo Guanabara</a> with my boyfriend, and understanding the class, which awakened my interest in the area again.
 
-##
-<div align="center">
-*
-    <img src="https://komarev.com/ghpvc/?username=mfpintucci&color=blue" alt="Contagem de views de Mari Ferraresi"/>    
-*
-</div> 
-<div align="center">
-  <a href="https://github.com/mfpintucci">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfpintucci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfpintucci&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-<div style="display: inline_block" align="center" ><br>
-  <img align="center" alt="Mari-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <!--img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/--> 
-    
-    
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariane-pintucci-89739747/) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mfpintucci&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mfpintucci&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfpintucci&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mfpintucci&icon=0&color=3)](https://visitcount.itsvg.in)
 
