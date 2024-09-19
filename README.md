@@ -1,5 +1,32 @@
-# 💫 About Me:
-### Hi there 👋, I'm Mari Ferraresi !<br><br>- 🔭 I’m currently working on Hospital Pharmacy Management<br>- 🌱 I’m currently learning Programming logic and Analysis and development of systems at Impacta Technology<br>- 👯 I’m looking to collaborate on projetcts in the health area that use Python as the main language<br>- 💬 Ask me about career transition<br>- 📫 How to reach me:<a href="https://www.linkedin.com/in/mariane-pintucci-89739747"> Linkedin Mari Ferraresi </a><br>- ⚡ Fun fact: I started programming very young learning the old HTML version bymyself, but as a rebellious teenager I didn't follow in the area suggested by my father.Currently, I rediscovered myself by attendind a Java class with <a href="https://github.com/gustavoguanabara"> Professor Gustavo Guanabara</a> with my boyfriend, and understanding the class, which awakened my interest in the area again.<br><br>##
+# Hi there 👋, I'm Mari Ferraresi!
+
+I'm a passionate professional transitioning from a career in **Hospital Pharmacy Management** to the exciting world of **Data and System Development**. With a strong background in healthcare and a growing expertise in programming and data analysis, I bring a unique blend of technical and practical skills to every project.
+
+- 🔭 **Current Role:** Working on Hospital Pharmacy Management and transitioning into tech
+- 🌱 **Currently Learning:** Programming Logic, Systems Analysis, Data Engineering, and Power BI at Impacta Technology
+- 👯 **Collaboration Interests:** Healthtech projects, especially those using Python and Data Science
+- 💬 **Career Transition:** Feel free to ask me about transitioning from the healthcare industry to IT
+- 📫 **Reach Me:** [LinkedIn - Mari Ferraresi](https://www.linkedin.com/in/mariferraresi/)
+- ⚡ **Fun Fact:** I started programming young, learning HTML on my own, but chose a different path as a rebellious teenager. Rediscovering programming through Java classes with Professor Gustavo Guanabara reignited my passion for tech, and now I'm all in!
+
+## Key Skills and Competencies:
+- **Programming Languages:** Python, SQL, C#, HTML, CSS, JavaScript
+- **Data & Analytics Tools:** Power BI, Python for Data Analysis, SQL for Database Management
+- **Project Management:** Scrum, Kanban, Agile methodologies
+- **Healthcare Expertise:** Clinical Pharmacy, Hospital Supplies Management, Multidisciplinary Collaboration
+- **Tech Integration in Healthcare:** Experience with Tasy (Java and HTML), data-driven decision-making, inventory optimization, KPI analysis
+- **Soft Skills:** Communication, Team Leadership, Quick Adaptation to New Technologies
+
+## Recent Courses & Certifications:
+- **Data Engineering** - Data Science Academy
+- **Machine Learning** - Faculdade Impacta
+- **Python for Data Analysis** - Data Science Academy
+- **ETL in Practice** - Faculdade Impacta
+- **Version Control (Git/GitHub)** - DIO
+
+I’m eager to leverage my diverse skills in healthcare, logistics, and data analysis to make impactful contributions in tech-driven projects. Let’s collaborate and create something meaningful!
+
+
 
 
 ## 🌐 Socials:
